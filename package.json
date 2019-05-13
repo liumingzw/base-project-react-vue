@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/liumingzw/front-example-project/issues"
   },
-  "homepage": "https://github.com/liumingzw/front-example-project#readme"
+  "homepage": "https://github.com/liumingzw/front-example-project#readme",
+  "devDependencies": {
+    "webpack": "^4.31.0"
+  }
 }
