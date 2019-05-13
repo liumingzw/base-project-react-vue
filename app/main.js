@@ -1,5 +1,9 @@
-const main = function () {
-    console.log('this is main');
-};
+import React from 'react';
+import ReactDom from 'react-dom';
+import Component1 from './components/Component1.jsx';
 
-main();
+ReactDom.render(
+<Component1 />,
+    document.getElementById('content')
+);
+
