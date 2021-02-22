@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDom from 'react-dom';
-import Component from './components/Component.jsx';
+import Index from './containers/index.jsx';
 
 ReactDom.render(
-    <Component/>,
+    <Index />,
     document.getElementById('content')
 );
 
