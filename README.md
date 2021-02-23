@@ -1,5 +1,5 @@
 ## 简介
-这是一个基础的前端模版项目，包含react，babel，  webpack，webpack-dev-server  
+这是一个基础的前端模版项目，包含react，babel，webpack，webpack-dev-server  
 
 <br/>
  
