@@ -1,7 +1,5 @@
 ## 简介
 这是一个基础的前端模版项目，包含react，babel，webpack，webpack-dev-server  
-
-<br/>
  
 ## 如何运行
 在根目录执行  
