@@ -1,24 +1,20 @@
 {
-  "name": "front-example-project",
+  "name": "base-react-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
-    "build": "webpack",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liumingzw/front-example-project.git"
+    "url": "git+https://github.com/liumingzw/base-react-project.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/liumingzw/front-example-project/issues"
-  },
-  "homepage": "https://github.com/liumingzw/front-example-project#readme",
+  "license": "MIT",
+  "homepage": "https://github.com/liumingzw/base-react-project",
   "devDependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.4",
